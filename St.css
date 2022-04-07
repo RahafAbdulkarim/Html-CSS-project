@@ -1,0 +1,28 @@
+
+
+body{
+    background-image: url(back.jpg);/* backgroun*/
+    background-repeat: no-repeat; 
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+ section {
+     display: flex;
+ }
+
+ div{
+    margin-left: 30px;
+ }
+
+button{
+    margin-top: 10px;
+    margin-left:40%;
+    padding: 4px;
+    color: aliceblue;
+    background-color: brown;
+
+}
+
